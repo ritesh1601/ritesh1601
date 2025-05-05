@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritesh1601
-- 👀 I’m interested in WebDev  
+- 👀 I’m NewGen WebDeveloper  
 - 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on Figma
 - 📫 How to reach me riteshsaini1601@gmail.com
